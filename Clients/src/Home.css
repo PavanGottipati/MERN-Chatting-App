@@ -1,0 +1,16 @@
+
+
+
+.mainBody{
+    height:100%;
+    width:100%;
+    background-color:rgb(6, 110, 110);
+    height:537px;
+    align-items: center;
+}
+
+.pics{
+    height:230px;
+    border-radius: 3px;
+    margin-top:20px;
+}
